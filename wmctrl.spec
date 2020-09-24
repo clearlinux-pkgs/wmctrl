@@ -4,7 +4,7 @@
 #
 Name     : wmctrl
 Version  : 1.07
-Release  : 1
+Release  : 2
 URL      : http://tripie.sweb.cz/utils/wmctrl/dist/wmctrl-1.07.tar.gz
 Source0  : http://tripie.sweb.cz/utils/wmctrl/dist/wmctrl-1.07.tar.gz
 Summary  : Control your EWMH compliant window manager from command line
